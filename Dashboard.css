@@ -1,0 +1,64 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("BG_Dashboard.png");
+}
+
+.nav{
+    margin: 0;
+    padding: 0;
+
+}
+
+ul {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(13, 194, 133);
+    padding-top: 20px;
+  
+    padding-bottom: 50px;
+  
+    
+}
+
+li {
+    display: inline;
+    margin-right: 15px;
+  float: left;
+
+}
+nav li a{
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+    font-weight: 600;
+    
+
+}
+
+.berita{
+    margin-left: 25px;
+  display: flex;
+}
+.berita img{
+    margin-top: 15px;
+    border-radius: 3%;
+}
+.text{
+    margin-left: 20px;
+}
+
+
+
+section img{
+    margin-top: 30px;
+    margin-left: 400px;
+}
+section p{
+    text-align: justify;
+    margin: 30px;
+    line-height: 1.5;
+}
+
